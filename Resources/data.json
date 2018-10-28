@@ -1,0 +1,18 @@
+{
+	"QuestionNumber": 2,
+	"data":
+	[
+		{
+			"numMole": 9,
+			"rightSound": "ice",
+			"sound": "dataSound/igh.mp3",
+			"gameLevel": 4
+		},
+		{
+			"numMole": 4,
+			"rightSound": "ai",
+			"sound": "dataSound/ai.mp3",
+			"gameLevel": 1
+		}
+	]
+}
